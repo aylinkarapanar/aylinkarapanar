@@ -1,6 +1,6 @@
-Aylin Karapanar
-Based in Leiden, the Netherlands
-Third-year B.Sc. Psychology student at Leiden University
+- Aylin Karapanar 
+- Based in Leiden, the Netherlands 
+- Third-year B.Sc. Psychology student at Leiden University
 
 
 <!---
