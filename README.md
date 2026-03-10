@@ -1,7 +1,7 @@
 - Aylin Karapanar 
 - Based in Leiden, the Netherlands
 - Second-year M.Sc. Statistics and Data Science student at Leiden University
-- B.Sc. Psychology graduate from Leiden University
+
 
 
 <!---
